@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<skills>
+  <skill Name="Customs and Folklore" Load="Merge">
+    <power Name="Appraisal" Cost="50" Attribute="Intelligence" Minimum="19" Class="NalathniAppraise" Snippet="assessing value" Description="You can estimate the approximate sale value of items that you understand."></power>
+  </skill>
+</skills>

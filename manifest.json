@@ -1,0 +1,6 @@
+{
+  "ID": "appraisal_skill_fork",
+  "Author": "{{kd8lvt_ASF_non-binary|kd8lvt}}",
+  "Title": "Kd's Appraisal Skill [Fork]",
+  "Description": "An updated continuation of NalathniDragon's mod that broke after 1.0, this adds a skill under Customs and Folklore that allows you to gague the price of things given your current bartering capability, as well as value per pound. In theory this is compatible with saves that used the older version, though I have doubts those saves would be compatible with 1.0 anyways. Safe to add mid-playthrough, but removing it will likely result in both a broken save and heart."
+}

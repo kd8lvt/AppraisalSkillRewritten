@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<colors>
+  <shaders>
+    <!-- Shameless copy/paste of {{transgender|Flaborized}}'s {{non-binary|non-binary}} shader. -->
+    <!-- Source: https://steamcommunity.com/sharedfiles/filedetails/?id=2951409991              -->
+    <!-- Thanks for making this great resource for the community <3                             -->
+    <!-- -Kd                                                                                    -->
+    <shader Name="kd8lvt_ASF_non-binary" DisplayName="non-binary (ASF)" Type="alternation" Colors="W-Y-m-K" ShowInPicker="false" />
+  </shaders>
+</colors>
